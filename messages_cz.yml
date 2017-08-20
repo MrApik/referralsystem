@@ -1,6 +1,8 @@
-#This is a translation into Czech
-#This translation is for the ReferralSystemPro minecraft plugin
-#Link: https://www.spigotmc.org/resources/referralsystempro-1-8-1-11-2-ultimate-referral-system.41294/
+# This is a translation into Czech
+# This translation is for the ReferralSystemPro minecraft plugin
+# Link: https://www.spigotmc.org/resources/referralsystempro-1-8-1-11-2-ultimate-referral-system.41294/
+# !!! WARNING - OUTDATED - THIS IS THE VERSION FOR REFERRALSYSTEMPRO 1.0 !!!
+# The update to 1.1 will be soon
 PREFIX: '&a[&bVěrnostní Systém&a]&b '
 NO_INVITE: '&cPromiň, ale tohoto hráče jsi ještě nepozval'
 ALREADY_INVITED: '&cPromiň, ale tento hráč je již pozvaný'
